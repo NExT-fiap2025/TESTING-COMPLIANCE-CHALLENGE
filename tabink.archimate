@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="tabink" id="id-49deeeb784624277a39c4623ee4dbe0a" version="5.0.0">
+  <folder name="Strategy" id="id-841aa31a61e24359af0e913d01792da8" type="strategy"/>
+  <folder name="Business" id="id-af4bd47d19e448c98db862f0131d8256" type="business"/>
+  <folder name="Application" id="id-cac6fa053d6e4abbbb7f2e74f4fbfba7" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-9add7ad6b8b745999601144ce67d67e1" type="technology"/>
+  <folder name="Motivation" id="id-0da0f6fd1e644e1f9a3779e4ccce0320" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-93bc7f6d9e744ec8ac920f36ee57d7c1" type="implementation_migration"/>
+  <folder name="Other" id="id-844c720ae4834495971ba764326e80d5" type="other"/>
+  <folder name="Relations" id="id-4473bf5df8a84bff8233da302076646e" type="relations"/>
+  <folder name="Views" id="id-967a6a8081e148f7a3e26785dd2b9920" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-5f360af579ad4f609f1236cf1e0cabcd"/>
+  </folder>
+</archimate:model>
